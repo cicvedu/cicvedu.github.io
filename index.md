@@ -1,5 +1,5 @@
 
-## 最新官网已经上线，请访问【智能汽车操作系统开发培训】
+## 智能汽车操作系统开发培训
 
 ### [https://cicvedu.com/course](https://cicvedu.com/course)
 
