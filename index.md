@@ -39,7 +39,7 @@
 
 #### 参加培训报名
 参加培训课程，请用手机号登录报名：  
-<https://cicvedu.com/course/108>
+<https://cicvedu.com/course/101>
 
 ### 编程作业领取入口
 #### 第一关 Rustlings（共100道编程练习题）   
